@@ -1,7 +1,7 @@
 # Python Program to Access
 # characters of String
 
-String1 = "GeeksForGeeks"
+String1 = "PythonApplicationProgramming"
 print("Initial String: ")
 print(String1)
 
